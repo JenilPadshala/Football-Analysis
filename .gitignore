@@ -1,7 +1,14 @@
 /input_videos
 /runs
-/training/football-players-detection-8/*
+/training/football-players-detection-8
+/models
+/output_videos
+
 tasks.txt
 
 
+
 yolov8x.pt
+yolov5xu.pt
+
+.DS_Store
