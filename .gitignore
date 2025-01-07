@@ -1,6 +1,6 @@
 /input_videos
 /runs
-
+/training/football-players-detection-8/*
 tasks.txt
 
 
